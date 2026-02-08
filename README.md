@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1>Hi, I'm Tim Harrod! </h1>
 
-<!--
-**timmyszn/timmyszn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Zero-Day Vulnerability Incident Response Email </b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> Certifications</h2>
+
+- <b>CompTIA Security+ https://www.credly.com/badges/6a47d4ed-167f-4ea4-a4d3-17d19ee16553/public_url
+
+- <b>CompTIA ITF+ https://www.credly.com/badges/a7740c47-44ee-4abd-9030-0363c1fe3a2e/public_url
