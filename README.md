@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Zero-Day Vulnerability Incident Response Email </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Zero-Day Email Response & Remediation Lab](https://github.com/timmyszn/Zero-Day-Incident-Response-Lab.git)
 
 
 <h2> Certifications</h2>
