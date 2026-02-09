@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Zero-Day Vulnerability Incident Response Simulation </b>
-  - [Zero-Day Email Response & Remediation Lab](https://github.com/timmyszn/Zero-Day-Incident-Response-Lab.git)
+  - [Zero-Day Vulnerability Incident & Simulation](https://github.com/timmyszn/Zero-Day-Incident-Response-Lab.git)
 
 
 <h2> Certifications</h2>
