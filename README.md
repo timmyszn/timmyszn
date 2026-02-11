@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tim Harrod! </h1>
+<h1>Hi, I'm Tim Harrod!👋🏾 </h1>
 
 <h2> 💻 Cybersecurity Projects:</h2>
 
