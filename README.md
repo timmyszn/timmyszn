@@ -1,6 +1,6 @@
 <h1>Hi, I'm Tim Harrod! </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2> 💻 Cybersecurity Projects:</h2>
 
 - <b>Zero-Day Vulnerability Incident Response Simulation </b>
   - [Zero-Day Vulnerability Incident Simulation](https://github.com/timmyszn/Zero-Day-Incident-Response-Lab.git)
